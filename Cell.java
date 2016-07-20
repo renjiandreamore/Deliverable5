@@ -98,6 +98,6 @@ public class Cell extends JButton {
 	    }
 	}
     
-    }
+    } 
 
 }
